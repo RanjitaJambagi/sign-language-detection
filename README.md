@@ -20,6 +20,6 @@ git clone https://github.com/RanjitaJambagi/sign-language-detection.git
 How to Run:
 python Main.py
 
-If you like this project, please give it a star!
+⭐⭐ If you like this project, please give it a star!
 
 
