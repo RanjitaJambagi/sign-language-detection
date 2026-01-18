@@ -16,6 +16,8 @@ git clone https://github.com/RanjitaJambagi/sign-language-detection.git
 
 2. cd sign-language-detection
 3. pip install -r requirements.txt
+
+How to Run:
 python Main.py
 
 If you like this project, please give it a star!
