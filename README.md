@@ -9,7 +9,6 @@ The system aims to help hearing- and speech-impaired individuals communicate mor
 - Apply machine learning for gesture classification
 - Build an assistive communication system
 
-- 
 ### ⚙️ Installation Steps
 1. Clone the repository  
 ```bash
